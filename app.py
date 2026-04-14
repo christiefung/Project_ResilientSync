@@ -61,7 +61,7 @@ if st.button("Predict Burnout Risk", type="primary"):
             with st.expander("The Strategic Intervention"):
                 st.markdown("""
                             **Objective:** Restore professional security by proving human indispensability.
-                            * **Hybrid Project Assignment:** Task the employee with project where AI handles the 'grunt work' (e.g., drafting/data cleanup) whereas the employee provides the strategic pivot.'
+                            * **Hybrid Project Assignment:** Task the employee with project where AI handles the 'grunt work' (e.g., drafting/data cleanup) whereas the employee provides the strategic pivot.
                             * **The 'AI Supervisor' Role:** By letting them *optimize* the tool for their own job, they prove to themselves that the tool is a utility they control, not a replacement that controls them.
                             * **Output:** The end result is a new guide that the employee can present to the team, boosting their status as an AI-subject matter expert and restoring their sense of professional value.
                             """)
