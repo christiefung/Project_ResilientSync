@@ -32,7 +32,7 @@ Sleep hours outperformed AI-specific variables in predicting resilience, suggest
 
 The strategy (Demystification): High frequency use of AI tools can demystify technology and lower the baseline of replacement fear
 
-## 🛠️ The Product: ResilientSync Dashboard
+## The Product: ResilientSync Dashboard
 To translate these insights into action, I developed a **Streamlit-based Decision Support Tool** for HRBP and Team Leads.
 
 * **Real-time Risk Scoring:** Utilizes the Random Forest backend to categorize employee risk (Low/Moderate/High).
